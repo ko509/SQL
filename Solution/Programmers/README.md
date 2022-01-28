@@ -4,3 +4,4 @@
 링크 | 제목 | 레벨 | 날짜
 :-: | :-: | :-: | :-:
 [link](https://programmers.co.kr/learn/courses/30/lessons/59040) | 고양이와 개는 몇마리 있을까 | level2 | 2022.01.28
+[link](https://programmers.co.kr/learn/courses/30/lessons/59034) | 모든 레코드 조회하기 | level1 | 2022.01.28
